@@ -11,7 +11,7 @@ This Flutter package provides easy and structured access to the openFDA Adverse 
 ## Getting Started
 To use this package in your Flutter application, follow these steps:
 
-***Installation***
+## Installation
 Add the following dependency to your ```pubspec.yaml``` file:
 
 ```yaml
@@ -19,7 +19,7 @@ dependencies:
 openfda_adverse_events_flutter: ^1.0.0
 ```
 
-***Usage***
+## Usage
 Import the package in your Dart file:
 
 ```dart
